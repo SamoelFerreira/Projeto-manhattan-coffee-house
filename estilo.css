@@ -5,6 +5,10 @@
     box-sizing: border-box;
 }
 
+html{ 
+ scroll-behavior: smooth; 
+ }
+
 /*SEÇÂO TOPO*/
 
 .topo {
@@ -165,6 +169,7 @@
     margin-bottom: 30px;
     letter-spacing: 2px;
     color: #c4a47c;
+    text-align: center;
 }
 
 .listas {
